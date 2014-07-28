@@ -1,0 +1,352 @@
+original
+Java Excel API Modify Test
+,,,,Bold,4dps
+Labels,,,MulRK records - no modification,1,2.0000,3,4,5,6,7
+Underlined cell - now emboldened,Underlined
+Bold cell - now underlined,Bold
+12pt font - now 10pt,12pt,,All entries
+Label - now has the word mod after it,Label,,in this column
+,,,are 
+Numbers,,,bold
+Pi - 5 dps, now 7,3.14159,,arial
+15042699 - Now exponential + 4dps,15042699
+15042699 - Exponential + 5dps - now normal,1.50427E07
+Number 17 - now 42,17
+Number 2.71828 - add 0.1,2.718
+
+Date - 31st May, 1976 14:53:21,,,Boolean Value,true
+Standard format dd/MM/yyyy hh:mm - now dd MMM yyyy hh:mm:ss,5/31/76 14:53
+Custom format dd MMM yyyy hh:mm:ss- now standard M dd yy hh:mm,31 May 1976 02:53:21
+Set the date to be 18 February, 1998 11:23:28format dd MMM yyyy hh:mm:ss- now standard M dd yy hh:mm,31 May 1976 02:53:21
+
+Formula - Simple sum.  Modify one of the values,1.1
+,2.2
+,3.3,Modify to 6.8
+,4.4
+,5.5
+,16.5
+Formula - Complicated formula,-0.573,-0.573
+
+Background colours,Grey background
+,Red background,,Red background with border,,Red background with border,Red background with border,Red background with border,Red background with green border,Red background with blue border
+,Blue background, yellow foreground,,Blue background, yellow foreground with border,,Blue background, yellow foreground - modified to red background
+
+vertical,plus 90,minus 90
+
+
+
+
+
+
+URL,http://www.andykhan.com/,,
+relative file link,..\jexcelapi\docs\index.html,,
+absolute file link,d:\home\jexcelapi\docs\index.html,,
+
+Remove this row,http://www.andykhan.com/,,,
+Remove this hyperlink,http://www.andykhan.com/,,,
+
+Hyperlink to another cell,Numbers test,,
+
+
+Merged cells,,,,
+,,,,
+,,,,
+
+
+,Some more merged cells
+,,,more merged,,
+,,,,,
+,
+
+Modified row height
+
+
+After a page break
+
+A Chart
+Some chart data values will be modified
+Chart data
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+
+Cross sheet formula,1.571,modified!b10 / 2
+
+
+
+Drag and Drop Formulas,,,,Values,Form 1,Form 2
+,,,,1,0.333,1.333
+,,,,2,0.667,2.667
+,,,,3,1,4
+,,,,4,1.333,5.333
+,,,,5,1.667,6.667
+,,,,5,1.667,6.667
+,,,,5,1.667,6.667
+,,,,5,1.667,6.667
+,,,,5,1.667,6.667
+,,,,5,1.667,6.667
+
+
+
+
+
+
+
+
+
+
+
+Images
+
+Bodiam Castle
+
+
+
+
+
+
+
+
+
+Richborough Roman fort
+Replaced by Little Moreton Hall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dropdown data validation
+List using cell references,3,,,,1
+,,,,,2
+Text,barney,,,,3
+,,,,,4
+,,,,,5
+,,,,,6
+
+
+Comments
+A cell with a comment
+Another cell comment - comment is altered
+A cell with a comment to be removed
+
+Grouped rows
+,1
+,2
+,4
+,5
+,6
+,7
+,8
+,9
+
+
+Entire row below has data validation.  Change the accepted values,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Entire row below has data validation. Change the validation range
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+modified
+Java Excel API Modify Test
+,,,,Bold,4dps
+Labels,,,MulRK records - no modification,1,2.0000,3,4,5,6,7
+Underlined cell - now emboldened,Underlined
+Bold cell - now underlined,Bold
+12pt font - now 10pt,12pt
+Label - now has the word mod after it,Label
+
+Numbers
+Pi - 5 dps, now 7,3.14159
+15042699 - Now exponential + 4dps,15042699
+15042699 - Exponential + 5dps - now normal,1.50427E07
+Number 17 - now 42,17
+Number 2.71828 - add 0.1,2.718
+
+Date - 31st May, 1976 14:53:21,,,Boolean Value,true
+Standard format dd/MM/yyyy hh:mm - now dd MMM yyyy hh:mm:ss,5/31/76 14:53
+Custom format dd MMM yyyy hh:mm:ss- now standard M dd yy hh:mm,31 May 1976 02:53:21
+Set the date to be 18 February, 1998 11:23:28format dd MMM yyyy hh:mm:ss- now standard M dd yy hh:mm,31 May 1976 02:53:21
+
+Formula - Simple sum.  Modify one of the values,1.1
+,2.2
+,3.3,Modify to 6.8
+,4.4
+,5.5
+,16.5
+Formula - Complicated formula,-0.573,-0.639
+
+
+A label,This label will change - consequently this string will no longer be referenced
+,,,,,Blue background, yellow foreground - modified to red background
+
+
+
+
+
+
+
+
+URL - modified to www.andykhan.com/jexcelapi,http://www.andykhan.com/,,
+relative file link - modify number of up-levels,..\jexcelapi\docs\index.html,,
+absolute file link - link removed,d:\home\jexcelapi\docs\index.html,,
+
+Remove this row,http://www.andykhan.com/,,,
+Remove this hyperlink,http://www.andykhan.com/,,,
+
+
+
+
+Merged cells,,,,
+,,,,
+,,,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chart
+Some chart data values will be modified
+Chart data
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+Cross sheet formula,1
+ROUND(COS(original!B10),2)
+
+Named cell formula
+value1+value2
+AVERAGE(value1,value1*4,value2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images,,,
+,,,
+Bodiam Castle,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Richborough Roman fort,,,
+Replaced by Little Moreton Hall,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+A control button
+
+A form button
+
+Dropdown data validation,,,
+List using cell references,3,,,,1
+,,,,,2
+Text,barney,,,,3
+,,,,,4
+,,,,,5
+,,,,,6
+
+
+Comments
+A cell with a comment
+Another cell comment - comment is altered
+A cell with a comment to be removed
+
+Grouped rows
+,1
+,2
+,4
+,5
+,6
+,7
+,8
+,9
+
+
+Entire row below has data validation.  Change the accepted values,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Entire row below has data validation. Change the validation range,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

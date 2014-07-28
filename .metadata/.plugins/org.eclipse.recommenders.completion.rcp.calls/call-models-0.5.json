@@ -1,0 +1,12 @@
+{
+  "D:\\Users\\John\\workspace4\\jexcelapi\\jxl.jar": {
+    "location": "D:\\Users\\John\\workspace4\\jexcelapi\\jxl.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027D:\\Users\\John\\workspace4\\jexcelapi\\jxl.jar\u0027. Neither fingerprint \u00277faf62e0697f7a88954622dfe8c8de33ed142ac7\u0027 nor symbolic name \u0027jxl\u0027 are known."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "Could not transfer artifact jre:jre:zip:call:1.0.0 from/to remote-models (http://download.eclipse.org/recommenders/models/kepler/): GET request of: jre/jre/1.0.0/jre-1.0.0-call.zip from remote-models failed"
+  }
+}
